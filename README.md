@@ -43,7 +43,7 @@ https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs
 - 検索機能
 - Google Map 表示機能(GoogleMapAPI)
 - vision AI (画像に自動タグ付け機能)
-- Natural Language (コメントの感情分析を点数化表示機能)  
+- Natural Language (コメントの感情分析を点数化表示機能)
 - 機能詳細リンク
 https://docs.google.com/spreadsheets/d/10pVjLpwzXf_CYbOYnmY3KiBRRaQ29r_XGBwHcIVs9jk/edit#gid=0
 
